@@ -7,13 +7,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "113.222.118.68",
     "username": "jbenning0",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 2,
@@ -23,13 +21,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "59.46.98.21",
     "username": "hdalrymple1",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 3,
@@ -39,13 +35,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "229.133.243.186",
     "username": "djayme2",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 4,
@@ -55,13 +49,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "5.18.199.241",
     "username": "sevangelinos3",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 5,
@@ -71,13 +63,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "223.177.170.251",
     "username": "nsmithers4",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 6,
@@ -87,13 +77,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "40.156.207.166",
     "username": "cclere5",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 7,
@@ -103,13 +91,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "186.7.152.78",
     "username": "gdelve6",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 8,
@@ -119,13 +105,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "81.13.202.10",
     "username": "rcleyburn7",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 9,
@@ -135,13 +119,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "219.160.200.23",
     "username": "sprickett8",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 10,
@@ -151,13 +133,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "93.118.197.6",
     "username": "mcaddock9",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 11,
@@ -167,13 +147,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "43.241.231.67",
     "username": "nsmalridgea",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 12,
@@ -183,13 +161,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "159.148.129.204",
     "username": "kshowenb",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 13,
@@ -199,13 +175,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "144.177.175.11",
     "username": "dpicktonc",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 14,
@@ -215,13 +189,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "114.232.140.98",
     "username": "mhelstromd",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 15,
@@ -231,13 +203,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "29.248.44.210",
     "username": "lcoullinge",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 16,
@@ -247,13 +217,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "174.235.73.93",
     "username": "ncraythornf",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 17,
@@ -263,13 +231,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "180.37.84.130",
     "username": "etilbrookg",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 18,
@@ -279,13 +245,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "143.5.12.215",
     "username": "icrummayh",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 19,
@@ -295,13 +259,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "224.4.108.97",
     "username": "atemletti",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 20,
@@ -311,13 +273,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "206.12.174.182",
     "username": "dweddeburnj",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 21,
@@ -327,13 +287,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "223.23.109.222",
     "username": "mpietruszkak",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 22,
@@ -343,13 +301,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "139.210.135.177",
     "username": "jdennistonl",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 23,
@@ -359,13 +315,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "26.210.90.238",
     "username": "carneckem",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 24,
@@ -375,13 +329,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "130.64.165.159",
     "username": "rnaisbittn",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 25,
@@ -391,13 +343,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "156.185.221.79",
     "username": "alambotino",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 26,
@@ -407,13 +357,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "239.122.154.202",
     "username": "tsteptowep",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 27,
@@ -423,13 +371,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "0.112.141.149",
     "username": "skinceyq",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 28,
@@ -439,13 +385,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "40.20.167.150",
     "username": "nmilnerr",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 29,
@@ -455,13 +399,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "171.2.16.214",
     "username": "gcandeys",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 30,
@@ -471,13 +413,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "255.151.67.222",
     "username": "fbrookwellt",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 31,
@@ -487,13 +427,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "210.196.251.222",
     "username": "dmellodyu",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 32,
@@ -503,13 +441,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "201.166.195.117",
     "username": "vfyshv",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 33,
@@ -519,13 +455,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "53.187.169.42",
     "username": "dalesinw",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 34,
@@ -535,13 +469,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "29.25.121.77",
     "username": "ngoodwynx",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 35,
@@ -551,13 +483,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "8.249.250.106",
     "username": "mdudhilly",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 36,
@@ -567,13 +497,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "151.226.90.54",
     "username": "jduleyz",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 37,
@@ -583,13 +511,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "210.178.220.21",
     "username": "tpontefract10",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 38,
@@ -599,13 +525,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "226.19.240.154",
     "username": "lgothup11",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 39,
@@ -615,13 +539,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "130.242.88.248",
     "username": "kmaine12",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 40,
@@ -631,13 +553,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "255.52.211.152",
     "username": "edignan13",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 41,
@@ -647,13 +567,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "34.14.242.210",
     "username": "hmatveiko14",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 42,
@@ -663,13 +581,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "198.63.207.89",
     "username": "kbollin15",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 43,
@@ -679,13 +595,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "174.106.132.71",
     "username": "kflippen16",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 44,
@@ -695,13 +609,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "210.58.19.212",
     "username": "nclutton17",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 45,
@@ -711,13 +623,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "123.91.44.203",
     "username": "lkensington18",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 46,
@@ -727,13 +637,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "109.104.29.254",
     "username": "astrotone19",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 47,
@@ -743,13 +651,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "127.45.9.55",
     "username": "eseers1a",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 48,
@@ -759,13 +665,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "242.231.106.168",
     "username": "kangrove1b",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 49,
@@ -775,13 +679,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "52.172.8.242",
     "username": "lsandison1c",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 50,
@@ -791,13 +693,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "127.210.216.48",
     "username": "scordes1d",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 51,
@@ -807,13 +707,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "124.163.217.25",
     "username": "acarmichael1e",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 52,
@@ -823,13 +721,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "187.33.42.146",
     "username": "rlongstreeth1f",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 53,
@@ -839,13 +735,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "187.245.71.222",
     "username": "hbendle1g",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 54,
@@ -855,13 +749,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "176.214.255.191",
     "username": "dhundey1h",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 55,
@@ -871,13 +763,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "113.228.187.42",
     "username": "nandreas1i",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 56,
@@ -887,13 +777,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "204.240.209.204",
     "username": "lsholem1j",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 57,
@@ -903,13 +791,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "237.247.236.235",
     "username": "bgoslin1k",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 58,
@@ -919,13 +805,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "243.6.214.227",
     "username": "akingsbury1l",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 59,
@@ -935,13 +819,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "87.93.0.17",
     "username": "lhawke1m",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 60,
@@ -951,13 +833,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "28.17.44.114",
     "username": "ckohen1n",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 61,
@@ -967,13 +847,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "134.133.186.124",
     "username": "dmorrison1o",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 62,
@@ -983,13 +861,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "247.52.55.142",
     "username": "sshill1p",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 63,
@@ -999,13 +875,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "122.171.67.154",
     "username": "ghalladay1q",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 64,
@@ -1015,13 +889,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "125.209.214.132",
     "username": "okibel1r",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 65,
@@ -1031,13 +903,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "22.242.166.52",
     "username": "lleving1s",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 66,
@@ -1047,13 +917,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "54.8.118.241",
     "username": "hblaxter1t",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 67,
@@ -1063,13 +931,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "138.20.217.84",
     "username": "cbrayley1u",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 68,
@@ -1079,13 +945,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "78.255.76.96",
     "username": "asherbourne1v",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 69,
@@ -1095,13 +959,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "180.147.189.46",
     "username": "henefer1w",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 70,
@@ -1111,13 +973,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "27.205.159.26",
     "username": "csnooks1x",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 71,
@@ -1127,13 +987,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "97.64.243.75",
     "username": "hineson1y",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 72,
@@ -1143,13 +1001,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "149.226.54.176",
     "username": "clyndon1z",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 73,
@@ -1159,13 +1015,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "114.110.99.27",
     "username": "fmillott20",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 74,
@@ -1175,13 +1029,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "24.124.95.215",
     "username": "amcgerr21",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 75,
@@ -1191,13 +1043,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "135.206.47.18",
     "username": "sclubley22",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 76,
@@ -1207,13 +1057,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "242.111.152.103",
     "username": "mrance23",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 77,
@@ -1223,13 +1071,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "110.226.88.143",
     "username": "mpreist24",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 78,
@@ -1239,13 +1085,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "128.39.17.156",
     "username": "ngiorgi25",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 79,
@@ -1255,13 +1099,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "148.195.153.223",
     "username": "ahobbema26",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 80,
@@ -1271,13 +1113,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "48.120.43.173",
     "username": "hsorro27",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 81,
@@ -1287,13 +1127,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "30.107.24.67",
     "username": "ckoubek28",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 82,
@@ -1303,13 +1141,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "214.12.114.43",
     "username": "avater29",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 83,
@@ -1319,13 +1155,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "218.22.240.175",
     "username": "cdanieli2a",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 84,
@@ -1335,13 +1169,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "228.60.165.235",
     "username": "rwogdon2b",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 85,
@@ -1351,13 +1183,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "28.176.14.133",
     "username": "fdummigan2c",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 86,
@@ -1367,13 +1197,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "6.154.216.195",
     "username": "alau2d",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 87,
@@ -1383,13 +1211,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "40.101.153.211",
     "username": "dmacvean2e",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 88,
@@ -1399,13 +1225,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "35.132.149.112",
     "username": "gwindle2f",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 89,
@@ -1415,13 +1239,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "90.236.76.218",
     "username": "rpurviss2g",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 90,
@@ -1431,13 +1253,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "75.110.188.127",
     "username": "svannini2h",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 91,
@@ -1447,13 +1267,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "15.46.203.161",
     "username": "cjahndel2i",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 92,
@@ -1463,13 +1281,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "198.84.226.200",
     "username": "hheadon2j",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 93,
@@ -1479,13 +1295,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "232.233.37.46",
     "username": "rmullord2k",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   },
   {
     "id": 94,
@@ -1495,13 +1309,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "147.169.143.251",
     "username": "poteague2l",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 95,
@@ -1511,13 +1323,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "229.214.217.193",
     "username": "mgrosvenor2m",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": true,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": false
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": true,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": false
+    }
   },
   {
     "id": 96,
@@ -1527,13 +1337,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "218.178.63.188",
     "username": "amckelvey2n",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 97,
@@ -1543,13 +1351,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "144.83.231.208",
     "username": "tharrema2o",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 98,
@@ -1559,13 +1365,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "124.145.227.200",
     "username": "gtysall2p",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": false,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": false,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 99,
@@ -1575,13 +1379,11 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Male",
     "ip_address": "93.70.218.230",
     "username": "wscholl2q",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": false,
-        "shared_on_platform_2": true,
-        "shared_on_platform_3": true
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": false,
+      "shared_on_platform_2": true,
+      "shared_on_platform_3": true
+    }
   },
   {
     "id": 100,
@@ -1591,12 +1393,10 @@ export const MOCK_ENDPOINT_1 = [
     "gender": "Female",
     "ip_address": "7.45.0.123",
     "username": "lbury2r",
-    "profile_shared": [
-      {
-        "shared_on_platform_1": null,
-        "shared_on_platform_2": null,
-        "shared_on_platform_3": null
-      }
-    ]
+    "profile_shared": {
+      "shared_on_platform_1": null,
+      "shared_on_platform_2": null,
+      "shared_on_platform_3": null
+    }
   }
 ];

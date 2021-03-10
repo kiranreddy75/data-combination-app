@@ -34,5 +34,5 @@ export class User {
   username: string;
 
   @ApiProperty({ type: ProfileShared})
-  profile_shared: ProfileShared[];
+  profile_shared: ProfileShared;
 }
