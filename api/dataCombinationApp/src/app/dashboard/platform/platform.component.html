@@ -1,0 +1,24 @@
+<div *ngIf="platformData">
+  <div class="table-responsive">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">Platform Name</th>
+          <th scope="col">Platform ID</th>
+          <th scope="col">Display Order</th>
+          <th scope="col">Last Shared</th>
+          <th scope="col">View DashBoard</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let platform of platformData">
+          <td>{{platform.name}}</td>
+          <td>{{platform.platform_id}}</td>
+          <td>{{platform.display_order}}</td>
+          <td>{{platform.last_shared}}</td>
+          <td><i class="fas fa-arrow-circle-right" (click)="navigateToNext(platform.name)"></i></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
